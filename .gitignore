@@ -1,0 +1,11 @@
+# Unity-generated state; the fixture commits sources, settings and .meta files only.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+*.csproj
+*.sln
+*.log
